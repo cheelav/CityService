@@ -4,7 +4,7 @@ The code is here:
 
 https://github.com/cheelav/vc/tree/master/add-numbers-service
 
-It should be a public repository.
+It is a public repository.
 
 I took a REST approach to the API, so there are two HTTP verbs:
 
